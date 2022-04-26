@@ -1,0 +1,13 @@
+{
+  "name": "insomnia-plugin-mvt2json",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "mvt2json",
+    "description": ""
+  },
+  "dependencies": {
+    "@mapbox/vt2geojson": "1.1.5“"
+  } ,
+  "main": "main.js"
+}
